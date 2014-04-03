@@ -13,6 +13,15 @@ Case for Tinkerforge IMU, GPS and MHS TinyCAN I-XL
 * [Tinkerforge Power Supply](http://www.tinkerforge.com/de/doc/Hardware/Power_Supplies/Step_Down.html)
 * [MHS Elektronik TinyCAN I-XL](http://www.mhs-elektronik.de/index.php?module=content&action=show&page=tinycan_hardware)
 
+With plugable
+
+* USB UMTS Stick
+* Ethernet Cable
+
+## Size
+
+The case has a dimension of `150x150x52mm`.
+
 ## Status
 
 We are currently in `Alpha` state, that means it is just the first CAD shot and there was no 3D printing or other real built of the case. We actually do not know if it will fit with the cables etc.
