@@ -5,6 +5,9 @@ Case for Tinkerforge IMU, GPS and MHS TinyCAN I-XL
 
 ![Case](https://raw.githubusercontent.com/MechLabEngineering/Low-Budget-Car-PC-Case/master/Aufbau.png)
 
+####http://mechlab-engineering.de/references/low-budget-car-pc/
+####http://vimeo.com/mechlabengineering/lowbudgetcarpc
+
 ## Case for
 
 * [RaspberryPi](http://www.watterott.com/de/Raspberry-Pi-Model-B)
