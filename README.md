@@ -21,13 +21,23 @@ With plugable
 * USB UMTS Stick
 * Ethernet Cable
 
+
+### Parts
+
+![Cover](STL-Dateien/GRPi-01-000-000-3_v2.jpg)
+
+![Housing](STL-Dateien/GRPi-01-000-000_v2.jpg)
+
+
 ## Size
 
 The case has a dimension of `150x150x52mm`.
 
 ## Status
 
-We are currently in `Alpha` state, that means it is just the first CAD shot and there was no 3D printing or other real built of the case. We actually do not know if it will fit with the cables etc.
+We are currently in `Beta` state, that means we 3D printed it already and at least the hardware fits the case. We are tryin' to optimize the cables and the structure for cheaper 3D printing.
+
+[Take a look here](http://mechlab-engineering.de/2014/04/erste-lieferung-car-pc-cases-eingeflogen/)
 
 ## Licence
 
