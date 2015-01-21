@@ -22,17 +22,6 @@ With plugable
 * Ethernet Cable
 
 
-### Parts
-
-![Cover](STL-Dateien/GRPi-01-000-000-3_v2.jpg)
-
-![Housing](STL-Dateien/GRPi-01-000-000_v2.jpg)
-
-
-## Size
-
-The case has a dimension of `150x150x52mm`.
-
 ## Status
 
 We are currently in `Beta` state, that means we 3D printed it already and at least the hardware fits the case. We are tryin' to optimize the cables and the structure for cheaper 3D printing.
